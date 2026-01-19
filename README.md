@@ -1,15 +1,15 @@
-# 🪄 OpenSorcerer
+# 🪄 Learn Opensource Fundamentals
 > *Helping developers cast their first open-source spell.*
 
-![GitHub Repo Stars](https://img.shields.io/github/stars/gobeecode/OpenSorcerer?style=for-the-badge&color=gold)
-![GitHub Forks](https://img.shields.io/github/forks/gobeecode/OpenSorcerer?style=for-the-badge&color=purple)
+![GitHub Repo Stars](https://img.shields.io/github/stars/buildergk/learn-opensource-fundamentals?style=for-the-badge&color=gold)
+![GitHub Forks](https://img.shields.io/github/forks/buildergk/learn-opensource-fundamentals?style=for-the-badge&color=purple)
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-blueviolet?style=for-the-badge)
-![License](https://img.shields.io/github/license/gobeecode/OpenSorcerer?style=for-the-badge&color=blue)
+![License](https://img.shields.io/github/license/buildergk/learn-opensource-fundamentals?style=for-the-badge&color=blue)
 
 ---
 
 ## ✨ About
-**OpenSorcerer** is a beginner-friendly open-source project designed to help developers make their **first contribution to opensource** with confidence. If you’ve ever felt lost on where or how to start contributing — this is your **safe and supportive space** to learn, explore, and collaborate.  
+This is a beginner-friendly open-source project designed to help developers make their **first contribution to opensource** with confidence. If you’ve ever felt lost on where or how to start contributing — this is your **safe and supportive space** to learn, explore, and collaborate.  
 
 🧙‍♂️ *Think of it as your open-source spellbook - where every pull request is a new incantation of learning.*
 
@@ -29,7 +29,7 @@
 1. **Fork** this repository  
 2. **Clone** your fork  
    ```bash
-   git clone https://github.com/<your-github-username>/opensorcerer.git
+   git clone https://github.com/<your-github-username>/learn-opensource-fundamentals.git
    ```
    Note: Replace `<your-github-username>` with your own github username.
 3. Create a **new** branch
