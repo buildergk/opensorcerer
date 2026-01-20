@@ -1,5 +1,5 @@
-# 🪄 Learn Opensource Fundamentals
-> *Helping developers cast their first open-source spell.*
+# Learn Opensource Fundamentals
+> *A beginner-friendly repo for practicing open source contributions. Submit your first PR here!.*
 
 ![GitHub Repo Stars](https://img.shields.io/github/stars/buildergk/learn-opensource-fundamentals?style=for-the-badge&color=gold)
 ![GitHub Forks](https://img.shields.io/github/forks/buildergk/learn-opensource-fundamentals?style=for-the-badge&color=purple)
@@ -9,7 +9,7 @@
 ---
 
 ## ✨ About
-This is a beginner-friendly open-source project designed to help developers make their **first contribution to opensource** with confidence. If you’ve ever felt lost on where or how to start contributing - this is your **safe and supportive space** to learn, explore, and collaborate.  
+This is a beginner-friendly open-source project designed to help engineers make their **first contribution to opensource** with confidence. If you’ve ever felt lost on where or how to start contributing - this is your **safe and supportive space** to learn, explore, and collaborate.  
 
 🧙‍♂️ *Think of it as your open-source spellbook - where every pull request is a new incantation of learning.*
 
